@@ -17,8 +17,8 @@ Create immersive 3D experiences on Roblox with **Roblox Studio**, a free applica
 </thead>
 <tbody>
 <tr>
-<td>**OS Version**</td>
-<td>Windows 10<br />macOS 10.14</td>
+<td>**mobile Version**</td>
+<td>Android10<br />Andrios 10.14</td>
 <td>Windows 11<br />macOS 14+</td>
 </tr>
 <tr>
